@@ -3,11 +3,11 @@
 <h1 align="center">Tool TraoDoiSub - TikTok</h1>
 
 # Hướng dẫn sử dụng
-
--Cài extensions EditThisCookie, [Ấn vào để cài extensions](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=vi)
--Dán cookies lấy từ extensions EditThisCookie vào file cookie.json
--Dán token TraoDoiSub vào file config.json
-
+```txt
+Cài extensions EditThisCookie, [Ấn vào để cài extensions](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=vi)
+Dán cookies lấy từ extensions EditThisCookie vào file cookie.json
+Dán token TraoDoiSub vào file config.json
+```
 
 ## Install
 Yêu cầu NodeJS phiên bản 16.x , [Ấn vào để tải xuống.](https://nodejs.org/en/download/current/)
