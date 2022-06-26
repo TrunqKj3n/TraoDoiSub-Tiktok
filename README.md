@@ -4,7 +4,7 @@
 
 # Hướng dẫn sử dụng
 ```txt
-Cài extensions EditThisCookie, [Ấn vào để cài extensions](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=vi)
+Cài extensions EditThisCookie(https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=vi)
 Dán cookies lấy từ extensions EditThisCookie vào file cookie.json
 Dán token TraoDoiSub vào file config.json
 ```
