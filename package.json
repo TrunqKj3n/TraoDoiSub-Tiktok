@@ -1,0 +1,20 @@
+{
+  "name": "TraoDoiSub-TikTok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Thiệu Trung Kiên",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "fs-extra": "^10.1.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^15.1.1",
+    "puppeteer-extra": "^3.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.10.1"
+  }
+}
