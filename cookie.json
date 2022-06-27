@@ -1,7 +1,7 @@
 [
 {
     "domain": ".tiktok.com",
-    "expirationDate": 168777112123124524.403102,
+    "expirationDate": 1687774524.403102,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_abck",
@@ -15,7 +15,7 @@
 },
 {
     "domain": ".tiktok.com",
-    "expirationDate": 1664011231231607,
+    "expirationDate": 1664011607,
     "hostOnly": false,
     "httpOnly": false,
     "name": "_gcl_au",
